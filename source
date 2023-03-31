@@ -1,0 +1,2 @@
+_G.Key = "Cookiebullet_YT"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KIDINApsx/versions/main/v2.lua"))() 
